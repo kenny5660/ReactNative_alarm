@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "58923239825",
+    "project_id": "alarm-app-9ec80",
+    "storage_bucket": "alarm-app-9ec80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58923239825:android:33ebb96045c8a7e067b230",
+        "android_client_info": {
+          "package_name": "com.reactnative_alarm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58923239825-gmc6116rc8jgti9ts1kf2td3l38qrjru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw4rj4-CW733fN-Ytndk7I2vkdgatjY9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58923239825-gmc6116rc8jgti9ts1kf2td3l38qrjru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58923239825:android:89e3841015396ce367b230",
+        "android_client_info": {
+          "package_name": "com.test.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58923239825-gmc6116rc8jgti9ts1kf2td3l38qrjru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw4rj4-CW733fN-Ytndk7I2vkdgatjY9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58923239825-gmc6116rc8jgti9ts1kf2td3l38qrjru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
